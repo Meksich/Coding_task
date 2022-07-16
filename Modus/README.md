@@ -1,4 +1,4 @@
-# PSoC&trade; 6 MCU: Hello world
+# PSoC&trade; 6 MCU
 
 This code example demonstrates simple UART communication by printing the "Hello world" message on a terminal and blinks an LED using a timer resource in PSoC&trade; 6 MCU.
 
