@@ -1,11 +1,6 @@
 # PSoC&trade; 6 MCU
 
-This code example demonstrates simple UART communication by printing the "Hello world" message on a terminal and blinks an LED using a timer resource in PSoC&trade; 6 MCU.
-
-
-[View this README on GitHub.](https://github.com/Infineon/mtb-example-psoc6-hello-world)
-
-[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyMjE3NzMiLCJTcGVjIE51bWJlciI6IjAwMi0yMTc3MyIsIkRvYyBUaXRsZSI6IlBTb0MmdHJhZGU7IDYgTUNVOiBIZWxsbyB3b3JsZCIsInJpZCI6ImFydmkiLCJEb2MgdmVyc2lvbiI6IjMuMC4wIiwiRG9jIExhbmd1YWdlIjoiRW5nbGlzaCIsIkRvYyBEaXZpc2lvbiI6Ik1DRCIsIkRvYyBCVSI6IklDVyIsIkRvYyBGYW1pbHkiOiJQU09DIn0=)
+This code example demonstrates simple UART communication by switching an LED on and off using a timer resource in PSoC&trade; 6 MCU.
 
 ## Requirements
 
